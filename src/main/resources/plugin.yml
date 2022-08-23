@@ -1,0 +1,8 @@
+name: InventoryGuiApi
+version: '${project.version}'
+main: de.trexic.inventoryguiapi.InventoryGuiApi
+api-version: 1.18
+authors: [ Trexic ]
+
+commands:
+  testCommand: {}
